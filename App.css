@@ -1,0 +1,18 @@
+.horizontal-scroll {
+  overflow-x: auto;
+}
+
+.horizontal-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.horizontal-table th, .horizontal-table td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.horizontal-table th {
+  background-color: #f2f2f2;
+}
